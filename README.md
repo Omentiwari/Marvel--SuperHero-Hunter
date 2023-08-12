@@ -1,4 +1,4 @@
-## Hosted Link:https:https:
+## Hosted Link:https:https:https://omentiwari.github.io/Marvel-SuperHero-Hunter/
 
 # Marvel-SuperHero-Hunter-Fronted-Project
 
