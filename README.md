@@ -16,7 +16,7 @@ Welcome to Marvel-SuperHero-Hunter, a frontend project focused on creating an in
 ## Author
 
 - Name: Omendra Tiwari
-- GitHub: [@omentiwari](https://github.com/omentiwari)
+- GitHub: [@omentiwari](https://github.com/Omentiwari/Marvel-SuperHero-Hunter)
 
 ## Acknowledgements
 
